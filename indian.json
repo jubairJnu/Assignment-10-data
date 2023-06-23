@@ -1,0 +1,114 @@
+{
+  "foods": [
+    {
+      "common_id": "IN00",
+      "food_id": "001",
+      "food_name": "Butter Chicken",
+      "recipe": "Butter Chicken is a popular Indian dish made with tender chicken cooked in a rich and creamy tomato-based gravy. The chicken is marinated in a mixture of yogurt and spices, then cooked in a buttery tomato sauce with the addition of cream and aromatic spices.",
+      "chef_name": "Rajesh Sharma",
+      "experience": 18,
+      "num_recipes": 120,
+      "chef_photo": "https://example.com/chefs/rajesh_sharma.jpg",
+      "food_photo": "https://example.com/foods/butter_chicken.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "002",
+      "food_name": "Biryani",
+      "recipe": "Biryani is a fragrant rice dish made with basmati rice, meat (such as chicken, mutton, or beef), and a blend of aromatic spices. The rice and meat are cooked separately and then layered together, creating a flavorful and aromatic one-pot meal.",
+      "chef_name": "Priya Verma",
+      "experience": 15,
+      "num_recipes": 90,
+      "chef_photo": "https://example.com/chefs/priya_verma.jpg",
+      "food_photo": "https://example.com/foods/biryani.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "003",
+      "food_name": "Paneer Tikka",
+      "recipe": "Paneer Tikka is a popular vegetarian appetizer made with chunks of paneer (Indian cottage cheese) marinated in a spicy yogurt-based marinade and grilled until charred and smoky. It is often served with mint chutney.",
+      "chef_name": "Amit Kapoor",
+      "experience": 12,
+      "num_recipes": 70,
+      "chef_photo": "https://example.com/chefs/amit_kapoor.jpg",
+      "food_photo": "https://example.com/foods/paneer_tikka.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "004",
+      "food_name": "Dosa",
+      "recipe": "Dosa is a thin and crispy South Indian crepe made from fermented rice and lentil batter. It is typically served with sambar (a lentil-based vegetable stew) and coconut chutney. Dosas come in various types, including plain dosa, masala dosa, and paper dosa.",
+      "chef_name": "Radha Krishnan",
+      "experience": 10,
+      "num_recipes": 60,
+      "chef_photo": "https://example.com/chefs/radha_krishnan.jpg",
+      "food_photo": "https://example.com/foods/dosa.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "005",
+      "food_name": "Chole Bhature",
+      "recipe": "Chole Bhature is a popular North Indian dish consisting of spicy chickpea curry (chole) served with deep-fried bread (bhature). The chickpeas are cooked in a flavorful onion-tomato gravy, while the bhature is made with a dough of refined flour and yogurt.",
+      "chef_name": "Anjali Gupta",
+      "experience": 8,
+      "num_recipes": 45,
+      "chef_photo": "https://example.com/chefs/anjali_gupta.jpg",
+      "food_photo": "https://example.com/foods/chole_bhature.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "006",
+      "food_name": "Tandoori Chicken",
+      "recipe": "Tandoori Chicken is a popular Indian dish made with marinated chicken that is cooked in a clay oven called a tandoor. The chicken is marinated in a mixture of yogurt and spices, which gives it a vibrant red color and a smoky flavor.",
+      "chef_name": "Vikram Singh",
+      "experience": 14,
+      "num_recipes": 80,
+      "chef_photo": "https://example.com/chefs/vikram_singh.jpg",
+      "food_photo": "https://example.com/foods/tandoori_chicken.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "007",
+      "food_name": "Palak Paneer",
+      "recipe": "Palak Paneer is a vegetarian dish made with paneer (Indian cottage cheese) cooked in a spinach-based gravy. The paneer cubes are simmered in a flavorful blend of spinach, onions, tomatoes, and spices, resulting in a creamy and nutritious dish.",
+      "chef_name": "Sneha Patel",
+      "experience": 11,
+      "num_recipes": 65,
+      "chef_photo": "https://example.com/chefs/sneha_patel.jpg",
+      "food_photo": "https://example.com/foods/palak_paneer.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "008",
+      "food_name": "Gulab Jamun",
+      "recipe": "Gulab Jamun is a popular Indian sweet made from khoya (reduced milk) and deep-fried until golden brown. The fried balls are then soaked in a sugar syrup flavored with cardamom and rose water, resulting in soft and syrupy sweet treats.",
+      "chef_name": "Rahul Sharma",
+      "experience": 9,
+      "num_recipes": 50,
+      "chef_photo": "https://example.com/chefs/rahul_sharma.jpg",
+      "food_photo": "https://example.com/foods/gulab_jamun.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "009",
+      "food_name": "Rogan Josh",
+      "recipe": "Rogan Josh is a flavorful Kashmiri curry made with tender chunks of meat (typically lamb or goat) cooked in a rich and aromatic gravy. The dish is known for its deep red color and a blend of spices that include Kashmiri red chili powder, ginger, garlic, and fennel seeds.",
+      "chef_name": "Kabir Khan",
+      "experience": 13,
+      "num_recipes": 75,
+      "chef_photo": "https://example.com/chefs/kabir_khan.jpg",
+      "food_photo": "https://example.com/foods/rogan_josh.jpg"
+    },
+    {
+      "common_id": "IN00",
+      "food_id": "010",
+      "food_name": "Masala Dosa",
+      "recipe": "Masala Dosa is a popular South Indian dish consisting of a crispy dosa filled with a spiced potato filling. The dosa batter is spread thin on a hot griddle, and once cooked, the potato masala is placed in the center and the dosa is folded over it.",
+      "chef_name": "Sunita Rao",
+      "experience": 7,
+      "num_recipes": 40,
+      "chef_photo": "https://example.com/chefs/sunita_rao.jpg",
+      "food_photo": "https://example.com/foods/masala_dosa.jpg"
+    }
+  ]
+}
