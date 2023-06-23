@@ -1,0 +1,136 @@
+{
+  "foods": [
+    {
+      "common_id": "AM00",
+      "food_id": "001",
+      "food_name": "Cheeseburger",
+      "recipe": "A cheeseburger is a classic American dish made with a ground beef patty, melted cheese, lettuce, tomato, onion, pickles, and condiments such as ketchup and mustard. It is typically served on a bun.",
+      "chef_name": "Michael Johnson",
+      "experience": 8,
+      "num_recipes": 40,
+      "chef_photo": "https://example.com/chefs/michael_johnson.jpg",
+      "food_photo": "https://example.com/foods/cheeseburger.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "002",
+      "food_name": "Hot Dog",
+      "recipe": "A hot dog is a popular American street food made with a grilled or steamed sausage served in a sliced bun. It is often topped with mustard, ketchup, onions, relish, and other condiments.",
+      "chef_name": "Sarah Thompson",
+      "experience": 6,
+      "num_recipes": 30,
+      "chef_photo": "https://example.com/chefs/sarah_thompson.jpg",
+      "food_photo": "https://example.com/foods/hot_dog.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "003",
+      "food_name": "Fried Chicken",
+      "recipe": "Fried chicken is a Southern American specialty made by coating chicken pieces with seasoned flour or breadcrumbs and deep-frying them until crispy and golden. It is often served with mashed potatoes, coleslaw, and biscuits.",
+      "chef_name": "Robert Davis",
+      "experience": 10,
+      "num_recipes": 50,
+      "chef_photo": "https://example.com/chefs/robert_davis.jpg",
+      "food_photo": "https://example.com/foods/fried_chicken.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "004",
+      "food_name": "BBQ Ribs",
+      "recipe": "BBQ ribs are a popular American barbecue dish made with pork or beef ribs coated in a tangy and smoky barbecue sauce. They are slow-cooked over low heat until tender and flavorful.",
+      "chef_name": "Emily Wilson",
+      "experience": 9,
+      "num_recipes": 45,
+      "chef_photo": "https://example.com/chefs/emily_wilson.jpg",
+      "food_photo": "https://example.com/foods/bbq_ribs.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "005",
+      "food_name": "Mac and Cheese",
+      "recipe": "Mac and cheese is a comforting American dish made with macaroni pasta and a creamy cheese sauce. It is often baked with additional cheese on top for a crispy and gooey texture.",
+      "chef_name": "David Roberts",
+      "experience": 7,
+      "num_recipes": 35,
+      "chef_photo": "https://example.com/chefs/david_roberts.jpg",
+      "food_photo": "https://example.com/foods/mac_and_cheese.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "006",
+      "food_name": "Buffalo Wings",
+      "recipe": "Buffalo wings are spicy chicken wings that are deep-fried and coated in a tangy hot sauce made with hot peppers and butter. They are often served with celery sticks and blue cheese dressing.",
+      "chef_name": "Jessica Cooper",
+      "experience": 5,
+      "num_recipes": 25,
+      "chef_photo": "https://example.com/chefs/jessica_cooper.jpg",
+      "food_photo": "https://example.com/foods/buffalo_wings.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "007",
+      "food_name": "Apple Pie",
+      "recipe": "Apple pie is a classic American dessert made with a flaky pastry crust and a filling of sliced apples, sugar, and spices. It is often served warm with a scoop of vanilla ice cream.",
+      "chef_name": "Daniel Anderson",
+      "experience": 7,
+      "num_recipes": 35,
+      "chef_photo": "https://example.com/chefs/daniel_anderson.jpg",
+      "food_photo": "https://example.com/foods/apple_pie.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "008",
+      "food_name": "Hamburger",
+      "recipe": "A hamburger is a classic American sandwich made with a ground beef patty, lettuce, tomato, onion, pickles, and condiments such as ketchup and mustard. It is typically served on a bun.",
+      "chef_name": "Olivia Turner",
+      "experience": 6,
+      "num_recipes": 30,
+      "chef_photo": "https://example.com/chefs/olivia_turner.jpg",
+      "food_photo": "https://example.com/foods/hamburger.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "009",
+      "food_name": "Clam Chowder",
+      "recipe": "Clam chowder is a creamy soup made with clams, potatoes, onions, celery, and bacon in a rich broth. It is a popular New England dish, often served in a bread bowl.",
+      "chef_name": "William Foster",
+      "experience": 8,
+      "num_recipes": 40,
+      "chef_photo": "https://example.com/chefs/william_foster.jpg",
+      "food_photo": "https://example.com/foods/clam_chowder.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "010",
+      "food_name": "Pancakes",
+      "recipe": "Pancakes are a breakfast staple in America, made with a batter of flour, eggs, milk, and sugar, cooked on a hot griddle or pan. They are often served with maple syrup and butter.",
+      "chef_name": "Sophia Ramirez",
+      "experience": 7,
+      "num_recipes": 35,
+      "chef_photo": "https://example.com/chefs/sophia_ramirez.jpg",
+      "food_photo": "https://example.com/foods/pancakes.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "011",
+      "food_name": "Cornbread",
+      "recipe": "Cornbread is a traditional American quick bread made with cornmeal. It has a slightly sweet and crumbly texture and is often served as a side dish with chili, barbecue, or fried chicken.",
+      "chef_name": "Ethan Collins",
+      "experience": 6,
+      "num_recipes": 30,
+      "chef_photo": "https://example.com/chefs/ethan_collins.jpg",
+      "food_photo": "https://example.com/foods/cornbread.jpg"
+    },
+    {
+      "common_id": "AM00",
+      "food_id": "012",
+      "food_name": "New York-style Pizza",
+      "recipe": "New York-style pizza is a thin-crust pizza with a hand-tossed dough that is typically topped with tomato sauce, mozzarella cheese, and various toppings. It is known for its large, foldable slices.",
+      "chef_name": "Natalie Parker",
+      "experience": 8,
+      "num_recipes": 40,
+      "chef_photo": "https://example.com/chefs/natalie_parker.jpg",
+      "food_photo": "https://example.com/foods/ny_pizza.jpg"
+    }
+  ]
+}
