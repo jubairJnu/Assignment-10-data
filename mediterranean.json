@@ -1,0 +1,92 @@
+{
+  "foods": [
+    {
+      "common_id": "MD00",
+      "food_id": "001",
+      "food_name": "Hummus",
+      "recipe": "Hummus is a creamy dip made from cooked chickpeas, tahini (sesame paste), garlic, lemon juice, and olive oil. It is typically served with pita bread or fresh vegetables as an appetizer or snack.",
+      "chef_name": "Youssef Ibrahim",
+      "experience": 10,
+      "num_recipes": 50,
+      "chef_photo": "https://example.com/chefs/youssef_ibrahim.jpg",
+      "food_photo": "https://example.com/foods/hummus.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "002",
+      "food_name": "Tabbouleh",
+      "recipe": "Tabbouleh is a refreshing salad made with finely chopped parsley, tomatoes, mint, bulgur wheat, lemon juice, and olive oil. It is a popular dish in Mediterranean cuisine, known for its bright flavors and nutritious ingredients.",
+      "chef_name": "Layla Nassar",
+      "experience": 8,
+      "num_recipes": 40,
+      "chef_photo": "https://example.com/chefs/layla_nassar.jpg",
+      "food_photo": "https://example.com/foods/tabbouleh.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "003",
+      "food_name": "Falafel",
+      "recipe": "Falafel is a deep-fried patty made from ground chickpeas or fava beans, mixed with herbs, spices, and onion. It is often served in pita bread with tahini sauce, fresh vegetables, and pickles.",
+      "chef_name": "Khaled Abbas",
+      "experience": 12,
+      "num_recipes": 60,
+      "chef_photo": "https://example.com/chefs/khaled_abbas.jpg",
+      "food_photo": "https://example.com/foods/falafel.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "004",
+      "food_name": "Moussaka",
+      "recipe": "Moussaka is a layered casserole dish made with eggplant, ground meat (usually lamb), tomatoes, onions, and a béchamel sauce. It is baked until golden and bubbly, creating a hearty and flavorful main course.",
+      "chef_name": "Nadia Karim",
+      "experience": 9,
+      "num_recipes": 45,
+      "chef_photo": "https://example.com/chefs/nadia_karim.jpg",
+      "food_photo": "https://example.com/foods/moussaka.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "005",
+      "food_name": "Greek Salad",
+      "recipe": "Greek Salad, also known as Horiatiki, is a refreshing salad made with tomatoes, cucumbers, red onions, Kalamata olives, and feta cheese. It is dressed with olive oil, lemon juice, and herbs, offering a tangy and savory combination.",
+      "chef_name": "Dimitrios Papadopoulos",
+      "experience": 11,
+      "num_recipes": 55,
+      "chef_photo": "https://example.com/chefs/dimitrios_papadopoulos.jpg",
+      "food_photo": "https://example.com/foods/greek_salad.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "006",
+      "food_name": "Shawarma",
+      "recipe": "Shawarma is a popular street food in the Mediterranean region, consisting of thinly sliced meat (such as chicken, beef, or lamb) marinated in spices, roasted on a vertical spit, and served in a wrap or pita bread with vegetables and sauces.",
+      "chef_name": "Ahmed Hassan",
+      "experience": 10,
+      "num_recipes": 50,
+      "chef_photo": "https://example.com/chefs/ahmed_hassan.jpg",
+      "food_photo": "https://example.com/foods/shawarma.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "007",
+      "food_name": "Spanakopita",
+      "recipe": "Spanakopita is a Greek savory pastry made with phyllo dough filled with a mixture of spinach, feta cheese, onions, and herbs. It is baked until golden and crispy, creating a delicious appetizer or side dish.",
+      "chef_name": "Maria Antonopoulos",
+      "experience": 7,
+      "num_recipes": 35,
+      "chef_photo": "https://example.com/chefs/maria_antonopoulos.jpg",
+      "food_photo": "https://example.com/foods/spanakopita.jpg"
+    },
+    {
+      "common_id": "MD00",
+      "food_id": "008",
+      "food_name": "Tzatziki",
+      "recipe": "Tzatziki is a refreshing yogurt-based dip or sauce made with Greek yogurt, cucumbers, garlic, lemon juice, and fresh herbs like dill or mint. It is often served with grilled meats, pita bread, or as a condiment for Mediterranean dishes.",
+      "chef_name": "Nikos Papadakis",
+      "experience": 9,
+      "num_recipes": 45,
+      "chef_photo": "https://example.com/chefs/nikos_papadakis.jpg",
+      "food_photo": "https://example.com/foods/tzatziki.jpg"
+    }
+  ]
+}
