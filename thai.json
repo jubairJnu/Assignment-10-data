@@ -1,59 +1,46 @@
 {
-  "foods": [
+  "recipes": [
     {
-      "common_id": "TH00",
-      "food_id": "001",
-      "food_name": "Pad Thai",
-      "recipe": "Pad Thai is a popular Thai stir-fried noodle dish made with rice noodles, shrimp or chicken, eggs, tofu, bean sprouts, and a flavorful sauce. It is often garnished with crushed peanuts, lime wedges, and fresh cilantro.",
-      "chef_name": "Siriwat Chaiyapruek",
-      "experience": 10,
-      "num_recipes": 60,
-      "chef_photo": "https://example.com/chefs/siriwat_chaiyapruek.jpg",
-      "food_photo": "https://example.com/foods/pad_thai.jpg"
+      "recipe_id": 1,
+      "chef_id": 5,
+      "name": "Pad Thai",
+      "ingredients": [
+        "8 ounces rice noodles",
+        "2 tablespoons vegetable oil",
+        "2 cloves of garlic, minced",
+        "1/2 cup tofu, cubed",
+        "2 eggs, lightly beaten",
+        "1 cup bean sprouts"
+      ],
+      "cooking_method": "1. Cook rice noodles according to package instructions. Drain and set aside.\n2. Heat vegetable oil in a wok or large skillet over medium-high heat.\n3. Add minced garlic and cubed tofu. Stir-fry for 2 minutes.\n4. Push the tofu and garlic to one side of the pan. Pour beaten eggs into the other side and scramble until cooked.\n5. Add cooked rice noodles to the pan and mix with tofu, garlic, and eggs.\n6. Add bean sprouts and stir-fry for 2-3 minutes or until everything is well combined.\n7. Serve hot and garnish with crushed peanuts, lime wedges, and cilantro, if desired."
     },
     {
-      "common_id": "TH00",
-      "food_id": "002",
-      "food_name": "Tom Yum Soup",
-      "recipe": "Tom Yum Soup is a spicy and sour Thai soup made with fragrant herbs, lemongrass, lime juice, fish sauce, and a combination of shrimp, chicken, or mushrooms. It is known for its vibrant flavors and is often served with steamed rice.",
-      "chef_name": "Napaporn Wongsa",
-      "experience": 8,
-      "num_recipes": 45,
-      "chef_photo": "https://example.com/chefs/napaporn_wongsa.jpg",
-      "food_photo": "https://example.com/foods/tom_yum_soup.jpg"
+      "recipe_id": 2,
+      "chef_id": 5,
+      "name": "Green Curry",
+      "ingredients": [
+        "1 can (13.5 oz) coconut milk",
+        "2 tablespoons green curry paste",
+        "1 lb chicken or tofu, cut into bite-sized pieces",
+        "1 cup bell peppers, sliced",
+        "1 cup bamboo shoots",
+        "1 cup green beans"
+      ],
+      "cooking_method": "1. In a large pan, heat coconut milk over medium heat until it starts to simmer.\n2. Add green curry paste to the pan and stir well to combine with the coconut milk.\n3. Add chicken or tofu to the pan and cook until they are almost cooked through.\n4. Add bell peppers, bamboo shoots, and green beans. Stir-fry for 2-3 minutes.\n5. Simmer for another 5-7 minutes or until all the ingredients are cooked through.\n6. Serve hot with steamed rice."
     },
     {
-      "common_id": "TH00",
-      "food_id": "003",
-      "food_name": "Green Curry",
-      "recipe": "Green Curry, also known as Kaeng Khiao Wan, is a spicy Thai curry made with green chili paste, coconut milk, and a variety of vegetables and meat or seafood. It is traditionally served with steamed rice.",
-      "chef_name": "Panya Suwannarat",
-      "experience": 12,
-      "num_recipes": 70,
-      "chef_photo": "https://example.com/chefs/panya_suwannarat.jpg",
-      "food_photo": "https://example.com/foods/green_curry.jpg"
-    },
-    {
-      "common_id": "TH00",
-      "food_id": "004",
-      "food_name": "Massaman Curry",
-      "recipe": "Massaman Curry is a rich and flavorful Thai curry made with a fragrant blend of spices, coconut milk, meat (such as beef or chicken), potatoes, onions, and peanuts. It offers a unique combination of sweet, savory, and tangy flavors.",
-      "chef_name": "Siriporn Thongchua",
-      "experience": 9,
-      "num_recipes": 50,
-      "chef_photo": "https://example.com/chefs/siriporn_thongchua.jpg",
-      "food_photo": "https://example.com/foods/massaman_curry.jpg"
-    },
-    {
-      "common_id": "TH00",
-      "food_id": "005",
-      "food_name": "Mango Sticky Rice",
-      "recipe": "Mango Sticky Rice, also known as Khao Niao Mamuang, is a popular Thai dessert made with glutinous rice, fresh mango slices, and a sweet coconut sauce. The rice is cooked with coconut milk for a creamy texture, and it is often garnished with toasted sesame seeds.",
-      "chef_name": "Somsak Chaithong",
-      "experience": 6,
-      "num_recipes": 35,
-      "chef_photo": "https://example.com/chefs/somsak_chaithong.jpg",
-      "food_photo": "https://example.com/foods/mango_sticky_rice.jpg"
+      "recipe_id": 3,
+      "chef_id": 5,
+      "name": "Tom Yum Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1 stalk lemongrass, cut into pieces",
+        "3-4 kaffir lime leaves",
+        "2 slices galangal",
+        "1/2 lb shrimp, peeled and deveined",
+        "4 ounces mushrooms, sliced"
+      ],
+      "cooking_method": "1. In a pot, bring the chicken or vegetable broth to a boil.\n2. Add lemongrass, kaffir lime leaves, and galangal. Simmer for 5-10 minutes to infuse the flavors.\n3. Add shrimp and mushrooms to the pot. Cook until the shrimp turns pink and is cooked through.\n4. Season with fish sauce and lime juice. Adjust the taste with chili paste and sugar.\n5. Simmer for another 2-3 minutes.\n6. Serve hot and garnish with fresh cilantro leaves."
     }
   ]
 }
