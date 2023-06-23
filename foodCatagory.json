@@ -1,0 +1,40 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "category": "American Food & Chef"
+    },
+    {
+      "id": 2,
+      "category": "Bangladeshi Food & Chef"
+    },
+    {
+      "id": 3,
+      "category": "Chinese Food & Chef"
+    },
+    {
+      "id": 4,
+      "category": "Indian Food & Chef"
+    },
+    {
+      "id": 5,
+      "category": "Thai Food & Chef"
+    },
+    {
+      "id": 6,
+      "category": "Mediterranean Food & Chef"
+    },
+    {
+      "id": 7,
+      "category": "Korean Food & Chef"
+    },
+    {
+      "id": 8,
+      "category": "Mexican Food & Chef"
+    },
+    {
+      "id": 9,
+      "category": "Afghan Food & Chef"
+    }
+  ]
+}
