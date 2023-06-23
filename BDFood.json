@@ -1,114 +1,86 @@
 {
-  "foods": [
+  "recipes": [
     {
-      "common_id": "BD00",
-      "food_id": "001",
-      "food_name": "Biriyani",
-      "recipe": "Biriyani is a flavorful rice dish made with aromatic spices, meat (such as chicken, beef, or mutton), and fragrant rice. The meat is marinated in a blend of spices, then cooked with partially boiled rice in layers, resulting in a rich and aromatic one-pot meal.",
-      "chef_name": "Rahman Chowdhury",
-      "experience": 20,
-      "num_recipes": 100,
-      "chef_photo": "https://example.com/chefs/rahman_chowdhury.jpg",
-      "food_photo": "https://example.com/foods/biriyani.jpg"
+      "recipe_id": 1,
+      "chef_id": 2,
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken, cut into pieces",
+        "1 large onion, sliced",
+        "4 cloves of garlic, minced",
+        "2-inch ginger, grated",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat oil or ghee in a large pot. Add sliced onions and cook until golden brown.\n3. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n4. Add chicken pieces and cook until they are browned.\n5. Add soaked rice to the pot and gently mix with the chicken and spices.\n6. Add enough water to cook the rice (approximately 3 cups). Bring it to a boil.\n7. Reduce the heat, cover the pot, and simmer for about 15-20 minutes or until the rice is cooked and the chicken is tender.\n8. Once cooked, fluff the rice with a fork and garnish with fried onions, mint leaves, and coriander leaves.\n9. Serve hot and enjoy!"
     },
     {
-      "common_id": "BD00",
-      "food_id": "002",
-      "food_name": "Fish Curry",
-      "recipe": "Fish curry is a staple dish in Bangladesh made with freshwater fish (such as Rohu, Hilsa, or Pangasius), spices, and a tangy gravy. The fish is cooked in a blend of spices, onions, tomatoes, ginger, garlic, and various aromatic herbs.",
-      "chef_name": "Nasima Khan",
-      "experience": 15,
-      "num_recipes": 80,
-      "chef_photo": "https://example.com/chefs/nasima_khan.jpg",
-      "food_photo": "https://example.com/foods/fish_curry.jpg"
+      "recipe_id": 2,
+      "chef_id": 2,
+      "name": "Shorshe Ilish",
+      "ingredients": [
+        "500g Ilish (Hilsa) fish pieces",
+        "4 tablespoons mustard paste",
+        "2 green chilies, slit",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1/4 teaspoon nigella seeds (kalonji)"
+      ],
+      "cooking_method": "1. Marinate the fish pieces with turmeric powder and salt. Set aside for 10 minutes.\n2. Heat mustard oil in a pan. Fry the marinated fish pieces until golden brown. Remove and keep aside.\n3. In the same pan, add nigella seeds and sauté for a few seconds.\n4. Add the slit green chilies and sauté for a minute.\n5. Add mustard paste, turmeric powder, red chili powder, and salt. Mix well.\n6. Add a little water to make a smooth sauce. Cook for a couple of minutes.\n7. Add the fried fish pieces to the sauce. Coat the fish with the mustard sauce.\n8. Cover the pan and cook on low heat for about 5-7 minutes.\n9. Once the fish is cooked and the sauce thickens, remove from heat.\n10. Serve hot with steamed rice."
     },
     {
-      "common_id": "BD00",
-      "food_id": "003",
-      "food_name": "Pitha",
-      "recipe": "Pitha is a traditional Bangladeshi sweet or savory rice cake, typically made from fermented rice batter or ground rice flour. They come in various shapes and flavors and can be steamed, fried, or baked.",
-      "chef_name": "Abdul Haque",
-      "experience": 10,
-      "num_recipes": 60,
-      "chef_photo": "https://example.com/chefs/abdul_haque.jpg",
-      "food_photo": "https://example.com/foods/pitha.jpg"
+      "recipe_id": 3,
+      "chef_id": 2,
+      "name": "Beef Bhuna",
+      "ingredients": [
+        "500g beef, cut into cubes",
+        "2 large onions, finely chopped",
+        "4 cloves of garlic, minced",
+        "1-inch ginger, grated",
+        "2 green chilies, sliced",
+        "1 teaspoon turmeric powder"
+      ],
+      "cooking_method": "1. Heat oil in a pan. Add chopped onions and sauté until golden brown.\n2. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n3. Add beef cubes and cook until they are browned.\n4. In a small bowl, mix together turmeric powder, red chili powder, coriander powder, cumin powder, and salt.\n5. Add the spice mixture to the pan and mix well with the beef.\n6. Cook on medium heat until the spices are well combined and the beef is cooked.\n7. Add yogurt and garam masala. Mix well and cook for another 5 minutes.\n8. Once the beef is tender and the masala thickens, remove from heat.\n9. Garnish with fresh coriander leaves.\n10. Serve hot with naan or rice."
     },
     {
-      "common_id": "BD00",
-      "food_id": "004",
-      "food_name": "Shorshe Ilish",
-      "recipe": "Shorshe Ilish is a famous Bengali dish made with Hilsa fish cooked in a mustard seed paste. The fish is marinated in a mixture of mustard seeds, green chilies, turmeric, and other spices, then gently simmered in a mustard gravy.",
-      "chef_name": "Rahima Begum",
-      "experience": 12,
-      "num_recipes": 70,
-      "chef_photo": "https://example.com/chefs/rahima_begum.jpg",
-      "food_photo": "https://example.com/foods/shorshe_ilish.jpg"
+      "recipe_id": 4,
+      "chef_id": 2,
+      "name": "Pitha",
+      "ingredients": [
+        "2 cups rice flour",
+        "1 cup grated coconut",
+        "1 cup jaggery (gur)",
+        "1/2 teaspoon cardamom powder",
+        "Water as needed",
+        "Salt to taste"
+      ],
+      "cooking_method": "1. In a bowl, mix rice flour and salt. Gradually add water and knead to make a soft dough.\n2. Divide the dough into small portions and shape them into round balls.\n3. In a separate bowl, mix grated coconut, jaggery, and cardamom powder to make a sweet filling.\n4. Flatten each rice flour ball and place a spoonful of the sweet filling in the center.\n5. Fold the edges and seal the ball to form a dumpling.\n6. Steam the dumplings in a steamer for about 10-15 minutes or until cooked.\n7. Once cooked, remove from the steamer and let them cool.\n8. Serve the Pitha as a sweet treat during festivals or special occasions."
     },
     {
-      "common_id": "BD00",
-      "food_id": "005",
-      "food_name": "Chapati",
-      "recipe": "Chapati is a staple flatbread in Bangladesh made from whole wheat flour. The dough is kneaded with water, rolled into thin discs, and cooked on a hot griddle until puffed and lightly browned.",
-      "chef_name": "Mohammed Rahman",
-      "experience": 8,
-      "num_recipes": 50,
-      "chef_photo": "https://example.com/chefs/mohammed_rahman.jpg",
-      "food_photo": "https://example.com/foods/chapati.jpg"
+      "recipe_id": 5,
+      "chef_id": 2,
+      "name": "Mishti Doi",
+      "ingredients": [
+        "1 liter milk",
+        "1 cup sugar",
+        "1/2 cup yogurt (curd)",
+        "A pinch of cardamom powder"
+      ],
+      "cooking_method": "1. Boil the milk in a heavy-bottomed pan over medium heat. Stir occasionally to prevent sticking.\n2. Once the milk comes to a boil, reduce the heat and simmer for about 1 hour or until it thickens and reduces to half its original quantity.\n3. Add sugar to the thickened milk and mix well until the sugar dissolves completely.\n4. Allow the milk to cool to room temperature.\n5. In a separate bowl, whisk the yogurt until smooth.\n6. Add the whisked yogurt to the cooled milk and mix well.\n7. Pour the mixture into earthen pots or any other containers.\n8. Sprinkle a pinch of cardamom powder on top of each pot.\n9. Cover the pots with a clean cloth and place them in a warm place for 6-8 hours or until the yogurt sets.\n10. Once set, refrigerate the Mishti Doi for a few hours before serving."
     },
     {
-      "common_id": "BD00",
-      "food_id": "006",
-      "food_name": "Beef Bhuna",
-      "recipe": "Beef Bhuna is a spicy and flavorful dish made with tender beef, onions, tomatoes, ginger, garlic, and a blend of aromatic spices. The beef is slow-cooked until tender and coated in a thick, rich gravy.",
-      "chef_name": "Fatima Akhtar",
-      "experience": 14,
-      "num_recipes": 90,
-      "chef_photo": "https://example.com/chefs/fatima_akhtar.jpg",
-      "food_photo": "https://example.com/foods/beef_bhuna.jpg"
-    },
-    {
-      "common_id": "BD00",
-      "food_id": "007",
-      "food_name": "Haleem",
-      "recipe": "Haleem is a hearty and nutritious dish made with a mix of lentils, meat (such as chicken, beef, or lamb), and wheat. The ingredients are slow-cooked until they form a thick porridge-like consistency, which is then garnished with fried onions, mint, and lemon juice.",
-      "chef_name": "Sana Ali",
-      "experience": 9,
-      "num_recipes": 55,
-      "chef_photo": "https://example.com/chefs/sana_ali.jpg",
-      "food_photo": "https://example.com/foods/haleem.jpg"
-    },
-    {
-      "common_id": "BD00",
-      "food_id": "008",
-      "food_name": "Kacchi Biryani",
-      "recipe": "Kacchi Biryani is a traditional and elaborate rice dish made with marinated meat (such as mutton or beef) and basmati rice. The meat and rice are cooked together in layers, infused with aromatic spices, saffron, and ghee, resulting in a fragrant and succulent dish.",
-      "chef_name": "Kamal Hossain",
-      "experience": 18,
-      "num_recipes": 95,
-      "chef_photo": "https://example.com/chefs/kamal_hossain.jpg",
-      "food_photo": "https://example.com/foods/kacchi_biryani.jpg"
-    },
-    {
-      "common_id": "BD00",
-      "food_id": "009",
-      "food_name": "Shatkora Beef",
-      "recipe": "Shatkora Beef is a tangy and aromatic dish made with beef, Shatkora (a citrus fruit), and a blend of spices. The meat is slow-cooked with the tangy Shatkora, which imparts a unique and refreshing flavor to the dish.",
-      "chef_name": "Farhana Ahmed",
-      "experience": 11,
-      "num_recipes": 65,
-      "chef_photo": "https://example.com/chefs/farhana_ahmed.jpg",
-      "food_photo": "https://example.com/foods/shatkora_beef.jpg"
-    },
-    {
-      "common_id": "BD00",
-      "food_id": "010",
-      "food_name": "Mishti Doi",
-      "recipe": "Mishti Doi is a sweet and creamy dessert made with thickened milk, sugar, and a hint of caramelization. The milk is boiled until it reduces and thickens, then sweetened with sugar and fermented overnight to achieve its distinct sweet and tangy flavor.",
-      "chef_name": "Sohail Ahmed",
-      "experience": 7,
-      "num_recipes": 40,
-      "chef_photo": "https://example.com/chefs/sohail_ahmed.jpg",
-      "food_photo": "https://example.com/foods/mishti_doi.jpg"
+      "recipe_id": 6,
+      "chef_id": 2,
+      "name": "Chingri Malai Curry",
+      "ingredients": [
+        "500g prawns (shrimp), deveined and cleaned",
+        "1 large onion, finely chopped",
+        "4 cloves of garlic, minced",
+        "1-inch ginger, grated",
+        "2 green chilies, slit",
+        "1/2 teaspoon turmeric powder"
+      ],
+      "cooking_method": "1. Heat oil in a pan. Add chopped onions and sauté until golden brown.\n2. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n3. Add turmeric powder and stir well.\n4. Add the cleaned prawns and cook until they turn pink.\n5. In a separate bowl, mix coconut milk and water to form a thin coconut milk mixture.\n6. Add the coconut milk mixture to the pan with prawns.\n7. Season with salt and cook on low heat for about 5-7 minutes.\n8. Once the prawns are cooked and the curry thickens, remove from heat.\n9. Serve hot with steamed rice."
     }
   ]
 }
