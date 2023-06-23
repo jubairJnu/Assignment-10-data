@@ -1,0 +1,45 @@
+ [
+    {
+      "name": "John Smith",
+      "picture": "https://example.com/john_smith.jpg",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000
+    },
+    {
+      "name": "Maria Garcia",
+      "picture": "https://example.com/maria_garcia.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200
+    },
+    {
+      "name": "Chen Wei",
+      "picture": "https://example.com/chen_wei.jpg",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 2500
+    },
+    {
+      "name": "Priya Patel",
+      "picture": "https://example.com/priya_patel.jpg",
+      "experience": 5,
+      "recipes": 40,
+      "likes": 800
+    },
+    {
+      "name": "Somsak Wongthanakit",
+      "picture": "https://example.com/somsak_wongthanakit.jpg",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 1500
+    },
+    {
+      "name": "Sophia Lacroix",
+      "picture": "https://example.com/sophia_lacroix.jpg",
+      "experience": 6,
+      "recipes": 60,
+      "likes": 1100
+    }
+  ]
+
