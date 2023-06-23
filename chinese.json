@@ -1,161 +1,46 @@
 {
-  "common_id": "CN001",
-  "chefs": [
+  "recipes": [
     {
-      "chef_name": "Liu Chang",
-      "food_id": "FD001",
-      "signature_food": "Kung Pao Chicken",
-      "recipe": [
-        "Dice the chicken and vegetables.",
-        "Stir-fry the chicken until cooked.",
-        "Add vegetables and peanuts.",
-        "Prepare the flavorful sauce.",
-        "Combine everything and stir-fry until well coated.",
-        "Serve with steamed rice."
+      "recipe_id": 1,
+      "chef_id": 3,
+      "name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb chicken breast, diced",
+        "1/2 cup peanuts",
+        "2 tablespoons vegetable oil",
+        "2 cloves of garlic, minced",
+        "1 tablespoon ginger, grated",
+        "1/2 cup diced bell peppers"
       ],
-      "experience": 20,
-      "num_recipes": 100,
-      "chinese_food_id": "CF001",
-      "common_id": "CN001"
+      "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add diced chicken to the wok and stir-fry until it's cooked through.\n4. Add diced bell peppers and peanuts to the wok. Stir-fry for an additional 2 minutes.\n5. In a small bowl, mix together soy sauce, vinegar, sugar, and cornstarch.\n6. Pour the sauce over the chicken and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n7. Serve hot with steamed rice."
     },
     {
-      "chef_name": "Wang Xiaoyu",
-      "food_id": "FD002",
-      "signature_food": "Peking Duck",
-      "recipe": [
-        "Prep the duck and marinate it overnight.",
-        "Roast the duck until the skin turns crispy.",
-        "Slice the duck meat and serve with thin pancakes, scallions, cucumber, and hoisin sauce."
+      "recipe_id": 2,
+      "chef_id": 3,
+      "name": "Sweet and Sour Pork",
+      "ingredients": [
+        "1 lb pork loin, cut into cubes",
+        "1/2 cup pineapple chunks",
+        "1/2 cup bell peppers, diced",
+        "1/2 cup onion, diced",
+        "2 tablespoons vegetable oil",
+        "1/4 cup ketchup"
       ],
-      "experience": 15,
-      "num_recipes": 75,
-      "chinese_food_id": "CF002",
-      "common_id": "CN001"
+      "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add pork cubes to the wok and stir-fry until they're browned and cooked through.\n3. Add diced bell peppers and onions to the wok. Stir-fry for an additional 2 minutes.\n4. In a small bowl, mix together ketchup, vinegar, sugar, soy sauce, and cornstarch.\n5. Pour the sauce over the pork and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n6. Add pineapple chunks to the wok and stir-fry for another minute.\n7. Serve hot with steamed rice."
     },
     {
-      "chef_name": "Zhang Wei",
-      "food_id": "FD003",
-      "signature_food": "Mapo Tofu",
-      "recipe": [
-        "Dice the tofu and brown it in a pan.",
-        "Cook ground pork with fermented black beans and chili bean paste.",
-        "Combine tofu, pork mixture, and sauce.",
-        "Simmer until flavors meld together.",
-        "Serve with steamed rice."
+      "recipe_id": 3,
+      "chef_id": 3,
+      "name": "Mapo Tofu",
+      "ingredients": [
+        "1 block firm tofu, cut into cubes",
+        "1/2 lb ground pork",
+        "2 tablespoons vegetable oil",
+        "2 cloves of garlic, minced",
+        "1 tablespoon ginger, grated",
+        "2 tablespoons doubanjiang (fermented bean paste)"
       ],
-      "experience": 10,
-      "num_recipes": 50,
-      "chinese_food_id": "CF003",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Chen Mei Ling",
-      "food_id": "FD004",
-      "signature_food": "Dim Sum (Har Gow)",
-      "recipe": [
-        "Prepare the filling with shrimp, seasonings, and vegetables.",
-        "Wrap the filling in translucent dumpling wrappers.",
-        "Steam the dumplings until cooked and translucent.",
-        "Serve hot with soy sauce or chili oil."
-      ],
-      "experience": 25,
-      "num_recipes": 120,
-      "chinese_food_id": "CF004",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Li Wei",
-      "food_id": "FD005",
-      "signature_food": "General Tso's Chicken",
-      "recipe": [
-        "Deep-fry chicken until crispy.",
-        "Prepare a spicy sauce with soy sauce, vinegar, sugar, and spices.",
-        "Stir-fry the chicken and sauce together until well coated.",
-        "Garnish with broccoli or green onions.",
-        "Serve with steamed rice."
-      ],
-      "experience": 10,
-      "num_recipes": 90,
-      "chinese_food_id": "CF005",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Huang Jing",
-      "food_id": "FD006",
-      "signature_food": "Hot and Sour Soup",
-      "recipe": [
-        "Prepare a broth with mushrooms, tofu, and bamboo shoots.",
-        "Season the soup with vinegar, soy sauce, and chili pepper.",
-        "Simmer until flavors meld together.",
-        "Serve hot."
-      ],
-      "experience": 15,
-      "num_recipes": 60,
-      "chinese_food_id": "CF006",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Zhou Jie",
-      "food_id": "FD007",
-      "signature_food": "Gong Bao Shrimp",
-      "recipe": [
-        "Stir-fry shrimp until cooked.",
-        "Add vegetables and peanuts.",
-        "Prepare a spicy sauce with soy sauce, vinegar, and spices.",
-        "Combine everything and stir-fry until well coated.",
-        "Serve hot."
-      ],
-      "experience": 12,
-      "num_recipes": 70,
-      "chinese_food_id": "CF007",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Xu Ming",
-      "food_id": "FD008",
-      "signature_food": "Yangzhou Fried Rice",
-      "recipe": [
-        "Cook rice and let it cool.",
-        "Stir-fry shrimp, ham, and vegetables.",
-        "Add the cooked rice and season with soy sauce.",
-        "Stir-fry until well mixed and heated through.",
-        "Serve hot."
-      ],
-      "experience": 20,
-      "num_recipes": 80,
-      "chinese_food_id": "CF008",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Lin Xiaohong",
-      "food_id": "FD009",
-      "signature_food": "Ma Po Eggplant",
-      "recipe": [
-        "Stir-fry eggplant until soft.",
-        "Prepare a spicy bean sauce with fermented black beans and chili.",
-        "Combine eggplant and sauce.",
-        "Simmer until flavors meld together.",
-        "Serve with rice or noodles."
-      ],
-      "experience": 10,
-      "num_recipes": 40,
-      "chinese_food_id": "CF009",
-      "common_id": "CN001"
-    },
-    {
-      "chef_name": "Yang Wei",
-      "food_id": "FD010",
-      "signature_food": "Steamed Fish with Ginger and Scallions",
-      "recipe": [
-        "Prepare a sauce with ginger, scallions, soy sauce, and sesame oil.",
-        "Steam the whole fish until cooked.",
-        "Pour the sauce over the fish.",
-        "Serve hot."
-      ],
-      "experience": 15,
-      "num_recipes": 65,
-      "chinese_food_id": "CF010",
-      "common_id": "CN001"
+      "cooking_method": "1. Heat vegetable oil in a wok or large skillet over medium heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add ground pork to the wok and stir-fry until it's cooked through.\n4. Add doubanjiang to the wok and stir-fry for another minute.\n5. Gently add tofu cubes to the wok. Stir gently to coat the tofu with the sauce.\n6. Simmer for 5-7 minutes or until the tofu is heated through.\n7. Serve hot with steamed rice."
     }
   ]
 }
