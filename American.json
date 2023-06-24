@@ -1,5 +1,4 @@
-{
-  "recipes": [
+ [
     {
       "recipe_id": 1,
       "chef_id": 1,
@@ -13,7 +12,16 @@
         "Onion slices"
       ],
       "cooking_method": "1. Preheat the grill or stovetop skillet.\n2. Divide the ground beef into four equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Place the patties on the preheated grill or skillet and cook for about 4-5 minutes per side, or until they reach your desired level of doneness.\n5. During the last minute of cooking, place a slice of American cheese on each patty to melt.\n6. Toast the hamburger buns on the grill or skillet.\n7. Assemble the cheeseburgers by placing a cooked patty on the bottom half of each bun.\n8. Top with lettuce, tomato slices, and onion slices.\n9. Close the burgers with the top half of the buns.\n10. Serve hot and enjoy!",
-      "picture": "cheeseburger.jpg"
+      "picture": "cheeseburger.jpg",
+      chef{
+      "chef_id": 1,
+      "name": "John Smith",
+      "picture": "https://i.ibb.co/GRSt9Zf/chef3.jpg",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000,
+      "bio": "John Smith is a renowned chef known for his expertise in American cuisine. With over 10 years of culinary experience, he has mastered the art of creating delicious and innovative dishes. His passion for food is evident in his wide range of recipes that showcase his unique style and creativity."
+    }
     },
     {
       "recipe_id": 2,
@@ -28,7 +36,16 @@
         "Salt and pepper to taste"
       ],
       "cooking_method": "1. Preheat the oven to 300°F (150°C).\n2. In a small bowl, mix together the brown sugar, paprika, garlic powder, salt, and pepper to create a dry rub.\n3. Remove the membrane from the back of the ribs.\n4. Rub the dry rub all over the ribs, covering them evenly.\n5. Wrap each rack of ribs tightly in aluminum foil.\n6. Place the wrapped ribs on a baking sheet and bake in the preheated oven for 2.5-3 hours, or until the meat is tender.\n7. Remove the ribs from the oven and unwrap them.\n8. Preheat the grill to medium-high heat.\n9. Brush the ribs with barbecue sauce and grill them for about 5 minutes per side, or until they develop a caramelized crust.\n10. Remove from the grill, let them rest for a few minutes, then slice and serve with extra barbecue sauce on the side.",
-      "picture": "bbq_ribs.jpg"
+      "picture": "bbq_ribs.jpg",
+      chef{
+      "chef_id": 1,
+      "name": "John Smith",
+      "picture": "https://i.ibb.co/GRSt9Zf/chef3.jpg",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000,
+      "bio": "John Smith is a renowned chef known for his expertise in American cuisine. With over 10 years of culinary experience, he has mastered the art of creating delicious and innovative dishes. His passion for food is evident in his wide range of recipes that showcase his unique style and creativity."
+    }
     },
     {
       "recipe_id": 3,
@@ -43,7 +60,16 @@
         "Salt and pepper to taste"
       ],
       "cooking_method": "1. Wash and dry the romaine lettuce. Tear the leaves into bite-sized pieces.\n2. In a large salad bowl, combine the torn lettuce, croutons, and grated Parmesan cheese.\n3. In a small bowl, whisk together the Caesar dressing and lemon juice.\n4. Drizzle the dressing over the salad and toss to coat the ingredients evenly.\n5. Season with salt and pepper to taste.\n6. Serve the Caesar salad immediately as a side dish or add grilled chicken or shrimp to make it a main course.",
-      "picture": "caesar_salad.jpg"
+      "picture": "caesar_salad.jpg",
+      chef{
+      "chef_id": 1,
+      "name": "John Smith",
+      "picture": "https://i.ibb.co/GRSt9Zf/chef3.jpg",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000,
+      "bio": "John Smith is a renowned chef known for his expertise in American cuisine. With over 10 years of culinary experience, he has mastered the art of creating delicious and innovative dishes. His passion for food is evident in his wide range of recipes that showcase his unique style and creativity."
+    }
     },
     {
       "recipe_id": 4,
@@ -61,7 +87,16 @@
         "2 cups chocolate chips"
       ],
       "cooking_method": "1. Preheat the oven to 375°F (190°C).\n2. In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy.\n3. Add the eggs one at a time, beating well after each addition.\n4. Stir in the vanilla extract.\n5. In a separate bowl, combine the all-purpose flour, baking soda, and salt.\n6. Gradually add the dry ingredients to the butter mixture, mixing until just combined.\n7. Fold in the chocolate chips.\n8. Drop rounded tablespoonfuls of dough onto ungreased baking sheets.\n9. Bake in the preheated oven for 9-11 minutes, or until the edges are golden brown.\n10. Allow the cookies to cool on the baking sheets for a few minutes, then transfer them to wire racks to cool completely.",
-      "picture": "chocolate_chip_cookies.jpg"
+      "picture": "chocolate_chip_cookies.jpg",
+      chef{
+      "chef_id": 1,
+      "name": "John Smith",
+      "picture": "https://i.ibb.co/GRSt9Zf/chef3.jpg",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000,
+      "bio": "John Smith is a renowned chef known for his expertise in American cuisine. With over 10 years of culinary experience, he has mastered the art of creating delicious and innovative dishes. His passion for food is evident in his wide range of recipes that showcase his unique style and creativity."
+    }
     }
   ]
-}
+
