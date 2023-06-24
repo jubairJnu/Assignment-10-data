@@ -1,5 +1,4 @@
-{
-  "recipes": [
+[
     {
       "recipe_id": 1,
       "chef_id": 2,
@@ -12,6 +11,15 @@
         "2-inch ginger, grated",
         "2 green chilies, sliced"
       ],
+      chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    }
       "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat oil or ghee in a large pot. Add sliced onions and cook until golden brown.\n3. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n4. Add chicken pieces and cook until they are browned.\n5. Add soaked rice to the pot and gently mix with the chicken and spices.\n6. Add enough water to cook the rice (approximately 3 cups). Bring it to a boil.\n7. Reduce the heat, cover the pot, and simmer for about 15-20 minutes or until the rice is cooked and the chicken is tender.\n8. Once cooked, fluff the rice with a fork and garnish with fried onions, mint leaves, and coriander leaves.\n9. Serve hot and enjoy!"
     },
     {
@@ -26,6 +34,15 @@
         "1 teaspoon red chili powder",
         "1/4 teaspoon nigella seeds (kalonji)"
       ],
+       chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    },
       "cooking_method": "1. Marinate the fish pieces with turmeric powder and salt. Set aside for 10 minutes.\n2. Heat mustard oil in a pan. Fry the marinated fish pieces until golden brown. Remove and keep aside.\n3. In the same pan, add nigella seeds and sauté for a few seconds.\n4. Add the slit green chilies and sauté for a minute.\n5. Add mustard paste, turmeric powder, red chili powder, and salt. Mix well.\n6. Add a little water to make a smooth sauce. Cook for a couple of minutes.\n7. Add the fried fish pieces to the sauce. Coat the fish with the mustard sauce.\n8. Cover the pan and cook on low heat for about 5-7 minutes.\n9. Once the fish is cooked and the sauce thickens, remove from heat.\n10. Serve hot with steamed rice."
     },
     {
@@ -40,6 +57,15 @@
         "2 green chilies, sliced",
         "1 teaspoon turmeric powder"
       ],
+       chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    },
       "cooking_method": "1. Heat oil in a pan. Add chopped onions and sauté until golden brown.\n2. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n3. Add beef cubes and cook until they are browned.\n4. In a small bowl, mix together turmeric powder, red chili powder, coriander powder, cumin powder, and salt.\n5. Add the spice mixture to the pan and mix well with the beef.\n6. Cook on medium heat until the spices are well combined and the beef is cooked.\n7. Add yogurt and garam masala. Mix well and cook for another 5 minutes.\n8. Once the beef is tender and the masala thickens, remove from heat.\n9. Garnish with fresh coriander leaves.\n10. Serve hot with naan or rice."
     },
     {
@@ -54,6 +80,15 @@
         "Water as needed",
         "Salt to taste"
       ],
+       chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    },
       "cooking_method": "1. In a bowl, mix rice flour and salt. Gradually add water and knead to make a soft dough.\n2. Divide the dough into small portions and shape them into round balls.\n3. In a separate bowl, mix grated coconut, jaggery, and cardamom powder to make a sweet filling.\n4. Flatten each rice flour ball and place a spoonful of the sweet filling in the center.\n5. Fold the edges and seal the ball to form a dumpling.\n6. Steam the dumplings in a steamer for about 10-15 minutes or until cooked.\n7. Once cooked, remove from the steamer and let them cool.\n8. Serve the Pitha as a sweet treat during festivals or special occasions."
     },
     {
@@ -66,6 +101,15 @@
         "1/2 cup yogurt (curd)",
         "A pinch of cardamom powder"
       ],
+       chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    },
       "cooking_method": "1. Boil the milk in a heavy-bottomed pan over medium heat. Stir occasionally to prevent sticking.\n2. Once the milk comes to a boil, reduce the heat and simmer for about 1 hour or until it thickens and reduces to half its original quantity.\n3. Add sugar to the thickened milk and mix well until the sugar dissolves completely.\n4. Allow the milk to cool to room temperature.\n5. In a separate bowl, whisk the yogurt until smooth.\n6. Add the whisked yogurt to the cooled milk and mix well.\n7. Pour the mixture into earthen pots or any other containers.\n8. Sprinkle a pinch of cardamom powder on top of each pot.\n9. Cover the pots with a clean cloth and place them in a warm place for 6-8 hours or until the yogurt sets.\n10. Once set, refrigerate the Mishti Doi for a few hours before serving."
     },
     {
@@ -80,6 +124,15 @@
         "2 green chilies, slit",
         "1/2 teaspoon turmeric powder"
       ],
+       chef{
+      "chef_id": 2,
+      "name": "Maria Garcia",
+      "picture": "https://i.ibb.co/vhS5G83/chef2.jpg",
+      "experience": 8,
+      "recipes": 75,
+      "likes": 1200,
+      "bio": "Maria Garcia is a talented chef specializing in Bangladeshi cuisine. With 8 years of experience in the culinary industry, she brings a rich cultural heritage to her dishes. Maria's recipes reflect her passion for authentic flavors and her commitment to showcasing the vibrant and diverse Bangladeshi food culture."
+    },
       "cooking_method": "1. Heat oil in a pan. Add chopped onions and sauté until golden brown.\n2. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n3. Add turmeric powder and stir well.\n4. Add the cleaned prawns and cook until they turn pink.\n5. In a separate bowl, mix coconut milk and water to form a thin coconut milk mixture.\n6. Add the coconut milk mixture to the pan with prawns.\n7. Season with salt and cook on low heat for about 5-7 minutes.\n8. Once the prawns are cooked and the curry thickens, remove from heat.\n9. Serve hot with steamed rice."
     }
   ]
