@@ -1,5 +1,4 @@
-{
-  "recipes": [
+[
     {
       "recipe_id": 1,
       "chef_id": 5,
@@ -12,6 +11,15 @@
         "2 eggs, lightly beaten",
         "1 cup bean sprouts"
       ],
+      chef {
+      "chef_id": 5,
+      "name": "Somsak Wongthanakit",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 1500,
+      "bio": "Somsak Wongthanakit is an esteemed chef known for his expertise in Thai cuisine. With 12 years of experience, he has mastered the intricate balance of sweet, sour, spicy, and savory flavors that Thai food is famous for. Somsak's culinary creations showcase his meticulous attention to detail and his dedication to bringing authentic Thai flavors to the plate."
+    },
       "cooking_method": "1. Cook rice noodles according to package instructions. Drain and set aside.\n2. Heat vegetable oil in a wok or large skillet over medium-high heat.\n3. Add minced garlic and cubed tofu. Stir-fry for 2 minutes.\n4. Push the tofu and garlic to one side of the pan. Pour beaten eggs into the other side and scramble until cooked.\n5. Add cooked rice noodles to the pan and mix with tofu, garlic, and eggs.\n6. Add bean sprouts and stir-fry for 2-3 minutes or until everything is well combined.\n7. Serve hot and garnish with crushed peanuts, lime wedges, and cilantro, if desired."
     },
     {
@@ -26,6 +34,15 @@
         "1 cup bamboo shoots",
         "1 cup green beans"
       ],
+         chef {
+      "chef_id": 5,
+      "name": "Somsak Wongthanakit",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 1500,
+      "bio": "Somsak Wongthanakit is an esteemed chef known for his expertise in Thai cuisine. With 12 years of experience, he has mastered the intricate balance of sweet, sour, spicy, and savory flavors that Thai food is famous for. Somsak's culinary creations showcase his meticulous attention to detail and his dedication to bringing authentic Thai flavors to the plate."
+    },
       "cooking_method": "1. In a large pan, heat coconut milk over medium heat until it starts to simmer.\n2. Add green curry paste to the pan and stir well to combine with the coconut milk.\n3. Add chicken or tofu to the pan and cook until they are almost cooked through.\n4. Add bell peppers, bamboo shoots, and green beans. Stir-fry for 2-3 minutes.\n5. Simmer for another 5-7 minutes or until all the ingredients are cooked through.\n6. Serve hot with steamed rice."
     },
     {
@@ -40,7 +57,16 @@
         "1/2 lb shrimp, peeled and deveined",
         "4 ounces mushrooms, sliced"
       ],
+         chef {
+      "chef_id": 5,
+      "name": "Somsak Wongthanakit",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 1500,
+      "bio": "Somsak Wongthanakit is an esteemed chef known for his expertise in Thai cuisine. With 12 years of experience, he has mastered the intricate balance of sweet, sour, spicy, and savory flavors that Thai food is famous for. Somsak's culinary creations showcase his meticulous attention to detail and his dedication to bringing authentic Thai flavors to the plate."
+    },
       "cooking_method": "1. In a pot, bring the chicken or vegetable broth to a boil.\n2. Add lemongrass, kaffir lime leaves, and galangal. Simmer for 5-10 minutes to infuse the flavors.\n3. Add shrimp and mushrooms to the pot. Cook until the shrimp turns pink and is cooked through.\n4. Season with fish sauce and lime juice. Adjust the taste with chili paste and sugar.\n5. Simmer for another 2-3 minutes.\n6. Serve hot and garnish with fresh cilantro leaves."
     }
   ]
-}
+
