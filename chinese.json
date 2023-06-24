@@ -1,5 +1,4 @@
-{
-  "recipes": [
+[
     {
       "recipe_id": 1,
       "chef_id": 3,
@@ -12,6 +11,15 @@
         "1 tablespoon ginger, grated",
         "1/2 cup diced bell peppers"
       ],
+      chef {
+      "chef_id": 3,
+      "name": "Chen Wei",
+      "picture": "https://i.ibb.co/4frTrtQ/chef1.jpg",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 2500,
+      "bio": "Chen Wei is a highly skilled chef renowned for his expertise in Chinese cuisine. With 15 years of culinary experience, he has honed his skills in traditional Chinese cooking techniques and flavor profiles. Chen's culinary creations reflect his dedication to preserving the authenticity of Chinese dishes while adding his own creative twist."
+    },
       "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add diced chicken to the wok and stir-fry until it's cooked through.\n4. Add diced bell peppers and peanuts to the wok. Stir-fry for an additional 2 minutes.\n5. In a small bowl, mix together soy sauce, vinegar, sugar, and cornstarch.\n6. Pour the sauce over the chicken and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n7. Serve hot with steamed rice."
     },
     {
@@ -26,6 +34,15 @@
         "2 tablespoons vegetable oil",
         "1/4 cup ketchup"
       ],
+       chef {
+      "chef_id": 3,
+      "name": "Chen Wei",
+      "picture": "https://i.ibb.co/4frTrtQ/chef1.jpg",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 2500,
+      "bio": "Chen Wei is a highly skilled chef renowned for his expertise in Chinese cuisine. With 15 years of culinary experience, he has honed his skills in traditional Chinese cooking techniques and flavor profiles. Chen's culinary creations reflect his dedication to preserving the authenticity of Chinese dishes while adding his own creative twist."
+    },
       "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add pork cubes to the wok and stir-fry until they're browned and cooked through.\n3. Add diced bell peppers and onions to the wok. Stir-fry for an additional 2 minutes.\n4. In a small bowl, mix together ketchup, vinegar, sugar, soy sauce, and cornstarch.\n5. Pour the sauce over the pork and vegetables. Stir-fry for 1-2 minutes or until the sauce thickens.\n6. Add pineapple chunks to the wok and stir-fry for another minute.\n7. Serve hot with steamed rice."
     },
     {
@@ -40,7 +57,16 @@
         "1 tablespoon ginger, grated",
         "2 tablespoons doubanjiang (fermented bean paste)"
       ],
+       chef {
+      "chef_id": 3,
+      "name": "Chen Wei",
+      "picture": "https://i.ibb.co/4frTrtQ/chef1.jpg",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 2500,
+      "bio": "Chen Wei is a highly skilled chef renowned for his expertise in Chinese cuisine. With 15 years of culinary experience, he has honed his skills in traditional Chinese cooking techniques and flavor profiles. Chen's culinary creations reflect his dedication to preserving the authenticity of Chinese dishes while adding his own creative twist."
+    },
       "cooking_method": "1. Heat vegetable oil in a wok or large skillet over medium heat.\n2. Add minced garlic and grated ginger. Stir-fry for 1 minute.\n3. Add ground pork to the wok and stir-fry until it's cooked through.\n4. Add doubanjiang to the wok and stir-fry for another minute.\n5. Gently add tofu cubes to the wok. Stir gently to coat the tofu with the sauce.\n6. Simmer for 5-7 minutes or until the tofu is heated through.\n7. Serve hot with steamed rice."
     }
   ]
-}
+
