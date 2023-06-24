@@ -1,5 +1,4 @@
-{
-  "recipes": [
+ [
     {
       "recipe_id": 1,
       "chef_id": 6,
@@ -12,6 +11,15 @@
         "Kalamata olives, pitted",
         "Feta cheese, crumbled"
       ],
+      chef{
+      "chef_id": 6,
+      "name": "Sophia Lacroix",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 6,
+      "recipes": 60,
+      "likes": 1100,
+      "bio": "Sophia Lacroix is a talented chef specializing in Mediterranean cuisine. With 6 years of experience, she has honed her skills in crafting healthy and flavorful dishes inspired by the Mediterranean region. Sophia's culinary creations highlight the freshness of ingredients, the vibrant colors, and the bold flavors that make Mediterranean food so popular."
+    },
       "cooking_method": "1. In a large bowl, combine the diced tomatoes, cucumber, red onion, and bell pepper.\n2. Add Kalamata olives and crumbled Feta cheese.\n3. Toss the ingredients gently to combine.\n4. Serve the Greek salad chilled as a refreshing appetizer or side dish.",
       "picture": "https://example.com/greek_salad.jpg"
     },
@@ -27,6 +35,15 @@
         "2 tablespoons olive oil",
         "Salt to taste"
       ],
+        chef{
+      "chef_id": 6,
+      "name": "Sophia Lacroix",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 6,
+      "recipes": 60,
+      "likes": 1100,
+      "bio": "Sophia Lacroix is a talented chef specializing in Mediterranean cuisine. With 6 years of experience, she has honed her skills in crafting healthy and flavorful dishes inspired by the Mediterranean region. Sophia's culinary creations highlight the freshness of ingredients, the vibrant colors, and the bold flavors that make Mediterranean food so popular."
+    },
       "cooking_method": "1. In a food processor, combine the chickpeas, tahini, lemon juice, garlic, and olive oil.\n2. Process the mixture until smooth and creamy.\n3. If the hummus is too thick, add a little water and continue blending.\n4. Season with salt to taste and blend again.\n5. Transfer the hummus to a serving bowl.\n6. Drizzle with olive oil and garnish with a sprinkle of paprika or chopped parsley, if desired.\n7. Serve the hummus with pita bread, crackers, or fresh vegetables.",
       "picture": "https://example.com/hummus.jpg"
     },
@@ -42,6 +59,15 @@
         "Black olives, pitted",
         "Feta cheese, crumbled"
       ],
+        chef{
+      "chef_id": 6,
+      "name": "Sophia Lacroix",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 6,
+      "recipes": 60,
+      "likes": 1100,
+      "bio": "Sophia Lacroix is a talented chef specializing in Mediterranean cuisine. With 6 years of experience, she has honed her skills in crafting healthy and flavorful dishes inspired by the Mediterranean region. Sophia's culinary creations highlight the freshness of ingredients, the vibrant colors, and the bold flavors that make Mediterranean food so popular."
+    },
       "cooking_method": "1. In a large bowl, combine the cooked pasta, cherry tomatoes, cucumber, red onion, and black olives.\n2. Add crumbled Feta cheese and toss gently.\n3. For the dressing, whisk together olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper.\n4. Pour the dressing over the pasta salad and toss to coat.\n5. Serve the Mediterranean pasta salad chilled as a refreshing and flavorful side dish.",
       "picture": "https://example.com/mediterranean_pasta_salad.jpg"
     },
@@ -57,8 +83,18 @@
         "1 teaspoon dried oregano",
         "Salt and pepper to taste"
       ],
+        chef{
+      "chef_id": 6,
+      "name": "Sophia Lacroix",
+      "picture": "https://i.ibb.co/dLpR6Nh/chef4.jpg",
+      "experience": 6,
+      "recipes": 60,
+      "likes": 1100,
+      "bio": "Sophia Lacroix is a talented chef specializing in Mediterranean cuisine. With 6 years of experience, she has honed her skills in crafting healthy and flavorful dishes inspired by the Mediterranean region. Sophia's culinary creations highlight the freshness of ingredients, the vibrant colors, and the bold flavors that make Mediterranean food so popular."
+    },
       "cooking_method": "1. In a bowl, whisk together olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper.\n2. Place the chicken breasts in a ziplock bag and pour the marinade over them.\n3. Seal the bag and refrigerate for at least 30 minutes, allowing the flavors to infuse.\n4. Preheat the grill to medium-high heat.\n5. Remove the chicken from the marinade, shaking off any excess.\n6. Grill the chicken for about 6-8 minutes per side, or until cooked through and nicely charred.\n7. Let the chicken rest for a few minutes before slicing.\n8. Serve the grilled Mediterranean chicken with a side of salad or roasted vegetables.",
       "picture": "https://example.com/grilled_chicken.jpg"
     }
   ]
 }
+
