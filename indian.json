@@ -1,5 +1,4 @@
-{
-  "recipes": [
+ [
     {
       "recipe_id": 1,
       "chef_id": 4,
@@ -12,6 +11,15 @@
         "2 cloves of garlic, minced",
         "1 tablespoon ginger, grated"
       ],
+      chef{
+      "chef_id": 4,
+      "name": "Priya Patel",
+      "picture": "https://i.ibb.co/DLXn6cm/chef.jpg",
+      "experience": 5,
+      "recipes": 40,
+      "likes": 800,
+      "bio": "Priya Patel is a talented chef specializing in Indian cuisine. Despite her relatively short 5 years of experience, she has garnered a loyal following for her flavorful and aromatic dishes. Priya's passion for Indian spices and her ability to create harmonious blends of flavors make her recipes a true culinary delight."
+    },
       "cooking_method": "1. In a bowl, mix yogurt, ginger-garlic paste, turmeric powder, red chili powder, garam masala, and salt.\n2. Marinate the chicken pieces in the yogurt mixture and let it sit for at least 30 minutes or overnight.\n3. Heat oil in a pan and add chopped onions. Cook until they turn golden brown.\n4. Add minced garlic and grated ginger to the pan. Cook for another minute.\n5. Add marinated chicken pieces to the pan and cook until they are browned.\n6. Pour tomato puree into the pan and stir well.\n7. Add water if needed and simmer for about 15-20 minutes or until the chicken is cooked through.\n8. Garnish with fresh coriander leaves.\n9. Serve hot with naan or rice.",
       "picture": "chicken_tikka_masala.jpg"
     },
@@ -27,6 +35,15 @@
         "2 cloves of garlic, minced",
         "1 tablespoon ginger, grated"
       ],
+            chef{
+      "chef_id": 4,
+      "name": "Priya Patel",
+      "picture": "https://i.ibb.co/DLXn6cm/chef.jpg",
+      "experience": 5,
+      "recipes": 40,
+      "likes": 800,
+      "bio": "Priya Patel is a talented chef specializing in Indian cuisine. Despite her relatively short 5 years of experience, she has garnered a loyal following for her flavorful and aromatic dishes. Priya's passion for Indian spices and her ability to create harmonious blends of flavors make her recipes a true culinary delight."
+    },
       "cooking_method": "1. Blanch the spinach leaves in boiling water for 2 minutes. Drain and let them cool.\n2. Blend the blanched spinach leaves into a smooth paste.\n3. Heat ghee in a pan and add chopped onions. Cook until they turn golden brown.\n4. Add minced garlic and grated ginger to the pan. Cook for another minute.\n5. Add the spinach paste to the pan and stir well.\n6. Add salt, turmeric powder, cumin powder, and garam masala. Mix well.\n7. Gently add paneer cubes to the pan and simmer for 5-7 minutes.\n8. Serve hot with naan or rice.",
       "picture": "palak_paneer.jpg"
     },
@@ -42,8 +59,17 @@
         "1 tablespoon ginger, grated",
         "2 green chilies, sliced"
       ],
+            chef{
+      "chef_id": 4,
+      "name": "Priya Patel",
+      "picture": "https://i.ibb.co/DLXn6cm/chef.jpg",
+      "experience": 5,
+      "recipes": 40,
+      "likes": 800,
+      "bio": "Priya Patel is a talented chef specializing in Indian cuisine. Despite her relatively short 5 years of experience, she has garnered a loyal following for her flavorful and aromatic dishes. Priya's passion for Indian spices and her ability to create harmonious blends of flavors make her recipes a true culinary delight."
+    },
       "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat ghee or oil in a large pot. Add sliced onions and cook until golden brown.\n3. Add minced garlic, grated ginger, and green chilies. Cook for a minute.\n4. Add mixed vegetables and cook until they are slightly tender.\n5. Add soaked rice to the pot and gently mix with the vegetables.\n6. Add water, salt, and any additional spices of your choice. Bring it to a boil.\n7. Reduce the heat, cover the pot, and let it simmer until the rice is cooked and the flavors are well combined.\n8. Serve hot with raita or yogurt.",
       "picture": "vegetable_biryani.jpg"
     }
   ]
-}
+
